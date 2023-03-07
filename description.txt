@@ -1,0 +1,36 @@
+VKE (Vampire Knives Extended) adds many new knives and vampire-based accessories into the game.
+
+
+Update 0.2, Some Much Needed Updates
+----------------------------------------------------
+- Greatly improved the visuals of all knives
+- Fixed healing from getting to the hundreds after playing for a while
+- Config reimplimented for changing knife damage, healing amount, and heal projectile spawn chance
+- Updated the pillar knives to be more balanced and unique
+- Updated Blooming Terror (Plantera drop) to be more balanced and unique
+- Updated Hand of the Moonlord to be more unique, still not super happy w/ visuals of it tho so visuals will likely change again
+- Completely reworked Umbra and Penumbra to be more useful and fun
+- Changed some visuals for material knives and added effects to hardmode material knives (cobalt/palladium and later)
+- Sengos forgotten blades reworked
+- Rukasu's Bundle o' Tesla Coils reworked and volume annoyance drastically reduced
+- Delta nerfed
+- Increased speed of Starfury-type projectiles to make aiming more natural
+- Chain knives have higher rate of fire, damage lowered slightly
+- Horseman's Blades damage nerfed, increased rate of pumpkin spawning
+- Harpy knife damage output nerfed
+- Antlion knives slightly nerfed
+- Fixed some bugs with Nyives and Horseman's blades tile collisions
+- Nerfed the Daedalus Storm Blade's lightning bolts
+- Balanced terra knives
+- Fixed a few tooltip issues
+- Fixed bug where necklace mult didn't apply to healing
+- Fixed damage of Harvester's Soul
+
+Past Updates
+----------------------------------------------------
+This is the first update in the progress towards porting from 1.3 to 1.4. A LOT is disabled and currently I'd say about only half of the mod is here, but almost all the weapons are here and functional. 
+Everything should be pretty much the same except for these two changes:
+- Addition of the Delta, Psi, and Theta Knives
+- Changes to the visuals of Daedalus Stormblades
+
+If you have any questions or bugs to report feel free to join the Discord: https://discord.gg/9JqkMgt8

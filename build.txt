@@ -1,0 +1,5 @@
+displayName = VKE (Vampire Knives Expanded)
+author = ParkJunsu
+version = 0.2
+
+modReferences = ParticleLibrary

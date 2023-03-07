@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCn/KoN8lrIpuabeyIGDS+1H4C3AGnzwQ6cTfeipHWegtSWZvlqp2+35h05G6eafVJ+e1isjFU4PdreOqrQRSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parks\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\vke\\VKE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parks\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
